@@ -1,6 +1,4 @@
 # ChromeBot
-Este é um exemplo de automação com Python utilizando a bilbioteca Selenium
-
 <h3>Este é um exemplo de automação com Python utilizando a bilbioteca Selenium.<h3>
 <p>O código está todo comentado para que possa entender o passo a passo. E abaixo temos a lista do que será necessário
 para tudo funcionar bem</p>
